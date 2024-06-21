@@ -13,5 +13,5 @@
 
 ### Note: If npm start is not working then please install nodemon then again type npm start.
 
-### slidely AI Form Frontend Code Repository
+### Slidely AI Form Frontend Code Repository
 https://github.com/ayushraj12009/slidelyAI-Form-Frontend
